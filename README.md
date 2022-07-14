@@ -1,2 +1,2 @@
 # voting_experts
-voting expers implementations
+voting experts implementations
